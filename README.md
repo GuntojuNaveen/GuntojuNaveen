@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Naveen</h1>
+<h3 align="center">DevOps / Site Reliability Engineer </h3>
 
-<!--
-**GuntojuNaveen/GuntojuNaveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuntojuNaveen&label=Profile%20views&color=0e75b6&style=flat" alt="GuntojuNaveen" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> My projects and Technology Landscape </h3>
+
+
+| Domain                       | Skills/Tools                                                                      | Projects                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cloud**                    | AWS                                                                               | - [AWS three tier web app architecture](https://github.com/GuntojuNaveen/aws-three-tier-web-app)<br>- [AWS Serverless CRUD API](https://github.com/GuntojuNaveen/aws-serverless-crud-api)<br>                                                                                                             |
+| **Orchestration**            | - Kubernetes<br>- AWS ECS                                                         | - [Kubernetes](https://github.com/GuntojuNaveen/kubernetes)<br> - [Amazon EKS - Building a Cloud Native Application](https://github.com/GuntojuNaveen/aws-eks-web-app-hosting)                                                                                                                                                                                         |
+| **Infrastructure as Code**   | Terraform                                                                         | - [AWS ECS Farget deployment using Terraform](https://github.com/GuntojuNaveen/ecs-farget-microservices-deployment-terraform)<br>- [Terraform Micro Modules](https://github.com/GuntojuNaveen/aws-terraform-projects)<br>- [Terraform](https://github.com/GuntojuNaveen/terraform)                                                                                           |
+| **Server Templating**        | Docker                                                                            | - Docker                                                                                                                                                                                                                                                                                                                                                                  |
+| **CI/CD**                    | - AWS CodePipeline, CodeBuild, CodeDeploy.<br> - Jenkins<br> - Github Actions<br> | - [AWS CodePipeline Projects](https://github.com/GuntojuNaveen/aws-code-pipeline-repo)<br>- [Jenkins sample app deployment](https://github.com/GuntojuNaveen/jenkins)<br>- [Github Actions](https://github.com/GuntojuNaveen/ecs-farget-microservices-deployment-terraform/actions)                                                                                          |                                                   |
+| **Monitoring**               | Prometheus, Grafana, CloudWatch                                                   | - [AWS-ECS Prometheus Monitoring. Integration of NodeExporter, cAdvisior, Alertmanager and Grafana Dashboards.](https://github.com/GuntojuNaveen/prometheus-monitoring)                                                                                                                                                                                                    |
+| **Scripting**                | - Bash/Shell<br>- Python                                                          | - [Python Jenkins Automation Scripts](https://github.com/GuntojuNaveen/devops-automation-scripts/tree/main/jenkins)<br>- [Shell Scripts - Prometheus, Altermanager installation.](https://github.com/GuntojuNaveen/prometheus-monitoring/tree/main/scripts)                                                                                                                 |
+| **SCM**                      | GitHub, Gitlab, CodeCommit                                                        | - [Gitlab Profile](https://gitlab.com/GuntojuNaveen)<br>- [AWS CodeCommit Commands Handbook on Gitlab](https://gitlab.com/cicd9353734/aws-codecommit)                                                                                                                                                                                                                      |
+| **Configuration Management** | Ansible                                                                           | _                                                                                                                                                                                                                                                                                                                                               |
+| **Servers**                  | Nginx, Apache                                                                     | [Nginx](https://github.com/GuntojuNaveen/aws-three-tier-web-app/blob/9cb39e652ce853908084a81ffe31815688f8d41b/application-code/nginx.conf)                                                                                                                                                                                                                                 |
+| **Service Mesh**             | - Istio _(In Progress)_                                                           |                                                                                                                                                                                                                                                                                                                                                                           |
+| **Databases**                | - MySQL, DynamoDB, RDS                                                            | - [MySQL- Sequelize](https://github.com/GuntojuNaveen/ecs-farget-microservices-deployment-terraform/blob/main/backend/cab-assignment-app/db/db.js)<br>- [AWS DynamoDB](https://github.com/GuntojuNaveen/aws-serverless-crud-api#step1-create-a-dynamodb-table)<br>- [AWS RDS Multi-AZ](https://github.com/GuntojuNaveen/aws-three-tier-web-app#database-deployment---part-2) |
+|                              |
+
+
+- 💬 Ask me about **AWS, Kubernetes, Terraform, and CI/CD.**
+- 🌱 Currently learning **Serverless Architectures & Multi-AZ RDS**  
+- 🔭 Working on **AWS 3-tier CI/CD pipeline with Docker & CodeDeploy**  
+- 📝 Documenting my journey on **LinkedIn & GitHub Blogs**  
+- 🎯 Goal: **Automate infrastructure with Terraform & CloudFormation**  
+- 🤝 Open to collaborations in **Cloud, DevOps, and Open Source projects**  
+- 📫 Reach me at **navneethi198@gmail.com**  
+- ⚡ Fun fact: **Troubleshooting is my detective game — bugs don’t escape me!**  
+- 💡 Interests: **Cloud labs, hands-on tutorials, and professional branding**  
+
+### 🏆 Certifications
+
+<div align="left">
+<a href="https://www.credly.com/earner/earned/badge/bf5a40d3-a654-4acf-b528-b1ecbfc0a7df" title="AWS certified Cloud practitioner">
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS certified Cloud practitioner" width="80" height="80" />
+</a>
+<a href="https://www.credly.com/badges/7983125a-1a33-4299-986e-9b39b9ce7eaa" title="AWS Certified Solutions Architect – Associate">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/89fa912f-1f81-400c-8db0-21ab2d60a558" title="Github Actions Certificate">
+  <img src="https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="Github Actions Certificate" width="80" height="80" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/7d2a44a8-358b-496c-b357-6b362054007d" title="AWS Certified DevOps Engineer – Professional">
+  <img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" width="80" height="80" />
+</a>
+</div>
+
+### My Recent Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+- [When Terraform Tries to Delete What You Only Wanted to Update](https://medium.com/@tejasmane485/when-terraform-tries-to-delete-what-you-only-wanted-to-update-50e5a6d30914?source=rss-cc9ef120f3a4------2)
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/naveen-guntoju-0235b31b0" target="blank"><img src="images/linkedin.png" alt="LinkedIn" width="40" height="30" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
